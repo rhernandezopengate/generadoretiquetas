@@ -1,0 +1,14 @@
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\bin\Debug\WFACodigosQR.exe.config
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\bin\Debug\WFACodigosQR.exe
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\bin\Debug\WFACodigosQR.pdb
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.frmMenu.resources
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.frmPallets.resources
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.frmUbicaciones.resources
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.Properties.Resources.resources
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.csproj.GenerateResource.cache
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.csproj.CoreCompileInputs.cache
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.csproj.CopyComplete
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.exe
+C:\Users\rhern\Documents\GitHub\generadoretiquetas\WFACodigosQR\obj\Debug\WFACodigosQR.pdb
